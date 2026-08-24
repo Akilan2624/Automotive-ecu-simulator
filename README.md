@@ -31,9 +31,6 @@ Based on the input:
 This helped me understand how input processing and output control work in an embedded system.
 
 
-## Project Screenshot
-
-![Automotive ECU Simulator](ecu-simulator.png)
 
 ## Control Flow
 
